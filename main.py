@@ -1,4 +1,4 @@
-```python
+
 import streamlit as st
 import pandas as pd
 import requests
@@ -302,5 +302,5 @@ st.caption(
     f"📌 데이터 출처: 영화진흥위원회(KOBIS) | "
     f"조회 기준일: {display_date}"
 )
-```
+
 
